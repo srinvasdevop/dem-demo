@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ls -ltr
+ls
